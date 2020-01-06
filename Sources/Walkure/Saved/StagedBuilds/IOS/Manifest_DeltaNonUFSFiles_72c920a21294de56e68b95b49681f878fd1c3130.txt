@@ -1,0 +1,12 @@
+Info.plist
+Default-IPhone6.png
+Default-IPhone6Plus-Portrait.png
+Default-Portrait@2x.png
+Default-Portrait-1112@2x.png
+Default-Portrait-1194@2x.png
+Default-Portrait-1336@2x.png
+Default-IPhoneXS-Portrait.png
+Default-IPhoneXSMax-Portrait.png
+Default-IPhoneXR-Portrait.png
+Default-568h@2x.png
+ue4commandline.txt

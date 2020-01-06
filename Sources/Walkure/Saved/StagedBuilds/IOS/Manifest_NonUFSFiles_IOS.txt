@@ -1,0 +1,12 @@
+Info.plist	0772F29CF5F962D38005B7B1DEDC1A3D
+Default-IPhone6.png	2019-12-08T20:29:55.684Z
+Default-IPhone6Plus-Portrait.png	2019-12-08T20:29:55.685Z
+Default-Portrait@2x.png	2019-12-08T20:29:55.697Z
+Default-Portrait-1112@2x.png	2019-12-08T20:29:55.694Z
+Default-Portrait-1194@2x.png	2019-12-08T20:29:55.695Z
+Default-Portrait-1336@2x.png	2019-12-08T20:29:55.696Z
+Default-IPhoneXS-Portrait.png	2019-12-08T20:29:55.688Z
+Default-IPhoneXSMax-Portrait.png	2019-12-08T20:29:55.690Z
+Default-IPhoneXR-Portrait.png	2019-12-08T20:29:55.687Z
+Default-568h@2x.png	2019-12-08T20:29:55.682Z
+ue4commandline.txt	425AF750ED64DDA225519BF4E6B27F0D

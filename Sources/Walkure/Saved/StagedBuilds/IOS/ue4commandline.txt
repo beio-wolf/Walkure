@@ -1,0 +1,1 @@
+../../../Walkure/Walkure.uproject  /Game/Walkure/Maps/GameMain -Messaging -SessionId=6A5D399F7243399D396B4BBB83A524F8 -SessionOwner="mori_kunihiko" -SessionName="Launch On Device" -iterative
