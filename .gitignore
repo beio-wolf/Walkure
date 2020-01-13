@@ -1,0 +1,14 @@
+﻿# log ファイルは要らない
+*.log
+
+# ビルドデータは要らない
+Sources/Walkure/Build
+
+# キャッシュデータは要らない
+Sources/Walkure/DerivedDataCache
+
+# Intermediateデータは要らない
+Sources/Walkure/Intermediate
+
+# Savedデータは要らない
+Sources/Walkure/Saved
